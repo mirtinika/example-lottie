@@ -9,7 +9,7 @@ export default function App() {
   const [isStopped, SetIsStoped] = useState(true);
   return (
     <div className="App">
-      <button onClick={() => SetIsStoped(false)}>Check Result</button>
+      <button onClick={() => SetIsStoped(false)}>Play</button>
       <button onClick={() => SetIsStoped(true)}>Reset</button>
       <Animation
         data={confetti}
