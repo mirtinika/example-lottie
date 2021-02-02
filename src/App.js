@@ -17,7 +17,7 @@ export default function App() {
         height={200}
         isStopped={isStopped}
       />
-      <a href="https://lottiefiles.com/35875-confetti-on-transparent-background" target="_blank">Example Lottie File</a>
+      <a href="https://lottiefiles.com/35875-confetti-on-transparent-background" target="_blank">Example Lottie Files</a>
     </div>
   );
 }
